@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": "6f9b",
+      "name": "pramod",
+      "email": "pramod@test.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "d04f",
+      "name": "admin",
+      "email": "admin@admin.com",
+      "password": "admin"
+    },
+    {
+      "id": "b2b8",
+      "name": "tony",
+      "email": "tony@test.com",
+      "password": "tony123"
+    },
+    {
+      "id": "cce9",
+      "name": "try",
+      "email": "try@test.com",
+      "password": "try1234"
+    },
+    {
+      "id": "1b2b",
+      "name": "xyx",
+      "email": "xyx@test.com",
+      "password": "xyx123"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
