@@ -59,18 +59,5 @@
     "name": "typicode"
   },
   "restaurants": [
-    {
-      "id": "1",
-      "name": "Burger King",
-      "contact": 1111,
-      "address":"Sector 15"
-    },
-    {
-     
-      "id": "2",
-      "name": "Mc Donalds",
-      "contact": 2222,
-      "address":"Sector 18"
-    }
   ]
 }
